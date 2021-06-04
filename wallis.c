@@ -37,5 +37,4 @@ int main(void) {
       abort();
     }
   }
-  
 }
